@@ -1,0 +1,1 @@
+- Create event "Щоденний стендап" on Apr 16 at 09:30

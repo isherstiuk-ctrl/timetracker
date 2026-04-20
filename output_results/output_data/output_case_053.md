@@ -1,0 +1,1 @@
+- Створити подію "Мітинг · product strategy" на Apr 23 at 14:00
